@@ -17,4 +17,4 @@ dylint_linting.workspace = true
 
 [dev-dependencies]
 dylint_testing.workspace = true
-tokio = { version = "1.20.1", features = ["full"]}
+tokio = { version = "1.38.2", features = ["full"]}
