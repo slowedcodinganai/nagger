@@ -18,5 +18,5 @@ if_chain = "1.0.2"
 
 [dev-dependencies]
 dylint_testing.workspace = true
-tokio = { version = "1.20.1", features = ["full"]}
+tokio = { version = "1.38.2", features = ["full"]}
 reqwest = {version = "0.11", default-features = false, features = ["blocking"]}
